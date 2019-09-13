@@ -1,0 +1,2 @@
+id,creation_time,property1,property2,property3,property4,property5,failed,time_of_death,type,max_size,full,role
+1,2017-03-10 00:21:21.376245,40,40,True,,,f,,bandit_generational,1605,t,experiment
